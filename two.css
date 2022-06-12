@@ -1,0 +1,26 @@
+body{
+    background-image: url(pretty.png);
+}
+#shops{
+width: 100% auto;
+opacity: 0.6;
+}
+.men{
+    
+    width:1500px ;
+    height:710px ;
+    background-color: rgb(181, 72, 90);
+}
+.women{
+    margin-top:80px;
+    
+    width:1500px ;
+    height:500px ;
+    background-color: pink;
+}
+.others{
+    margin-top: 155px;
+    width:1500px ;
+    height:700px ;
+    background-color: rgb(156, 128, 132);
+}
