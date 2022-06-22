@@ -1,5 +1,5 @@
 body{
-    background-image: url(pretty.png);
+    background-image: url(pretty.jpeg);
 }
 #shops{
 width: 100% auto;
@@ -8,14 +8,14 @@ opacity: 0.6;
 .men{
     
     width:1500px ;
-    height:710px ;
+    height:720px ;
     background-color: rgb(181, 72, 90);
 }
 .women{
-    margin-top:80px;
+    margin-top:40px;
     
     width:1500px ;
-    height:500px ;
+    height:540px ;
     background-color: pink;
 }
 .others{
@@ -23,4 +23,20 @@ opacity: 0.6;
     width:1500px ;
     height:700px ;
     background-color: rgb(156, 128, 132);
+}
+button{
+    background-color: rgb(9, 3, 3);
+    color: rgb(199, 176, 45);
+    width: 200px;
+    height: 50px;
+align-items: center;
+border-radius: 10px;
+cursor: grab;
+
+}
+button:hover{
+    filter: opacity(0.7);
+}
+button:active{
+    transform: translate(0,0.3rem);
 }
