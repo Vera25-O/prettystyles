@@ -1,4 +1,4 @@
-/*about*/
+
 body{
     background-image: url(boyshoe.jpeg);
   }
@@ -14,7 +14,8 @@ body{
     height: 50px;
 align-items: center;
 border-radius: 10px;
-cursor: grab;
+cursor: pointer;
+margin: auto;
 
 }
 button:hover{
