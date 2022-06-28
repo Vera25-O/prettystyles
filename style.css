@@ -31,16 +31,15 @@ button:active{
 }
 
 
-/* #samples{
-  background-image: url(glowy.jpeg);
-  background-repeat: no-repeat;
-    /* background-position: center; */
-    /* background-size: cover;
-    background-position: 50% 50%;
-    width: 30%;
-    height: 500px;
-    float: left;
-    margin-left: 0%;
-    margin-top: 10px;
-
-/* } */ 
+ #samples{
+    
+        width: 100%;
+        height: 240px;
+        margin-top: 300px;
+        margin-bottom: 0px;
+        background-color: black;
+        opacity: 0.5;
+        text-align: center;
+        line-height: 30px;
+        color: rgb(199, 176, 45);
+ } 
