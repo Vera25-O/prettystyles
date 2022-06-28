@@ -1,10 +1,11 @@
 //about
 var images = [
-    "images/heels.jpeg",
-    "images/orange.jpeg",
-    "images/glowy.jpeg"
-    
-  ]
+    "images/hoodie.jpeg",
+  "images/hoodie2.jpeg",
+  "images/t-shirt.jpeg",
+  "images/hoodi3.jpeg",
+  "images/cap.jpeg"
+]
   var imageHead = document.getElementById("images");
   var i = 0;
   setInterval(function() {
