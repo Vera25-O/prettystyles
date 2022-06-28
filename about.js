@@ -1,10 +1,8 @@
 //about
 var images = [
     "images/hoodie.jpeg",
-  "images/hoodie2.jpeg",
-  "images/t-shirt.jpeg",
   "images/hoodi3.jpeg",
-  "images/cap.jpeg"
+ 
 ]
   var imageHead = document.getElementById("images");
   var i = 0;
@@ -16,8 +14,8 @@ var images = [
       }
   }, 2000);
   
-  
-  var colors = ["blue", "pink", "black"]
+  //textcolor
+  var colors = [ "pink", "black"]
   var currentColor = 0
   var textColor = document.getElementsByTagName("h1")
   
