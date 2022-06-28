@@ -1,5 +1,5 @@
 body{
-    background-image: url(pretty.jpeg);
+    background-image: url(images/pretty.jpeg);
     background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -32,11 +32,11 @@ opacity: 0.6;
 button{
     background-color: rgb(9, 3, 3);
     color: rgb(199, 176, 45);
-    width: 200px;
+    width: 25%;
     height: 50px;
 align-items: center;
 border-radius: 10px;
-cursor: grab;
+cursor: pointer;
 
 }
 button:hover{

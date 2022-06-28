@@ -1,6 +1,7 @@
 
 body{
-    background-image: url(boyshoe.jpeg);
+    background-image: url(images/boyshoe.jpeg);
+    
   }
   h1{
     text-align: center;
@@ -10,7 +11,7 @@ body{
   button{
     background-color: rgb(9, 3, 3);
     color: rgb(199, 176, 45);
-    width: 200px;
+    width: 25%;
     height: 50px;
 align-items: center;
 border-radius: 10px;
@@ -24,3 +25,8 @@ button:hover{
 button:active{
     transform: translate(0,0.3rem);
 }
+
+.press{
+  width: 100%;
+}
+

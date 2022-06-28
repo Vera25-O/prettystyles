@@ -1,8 +1,8 @@
 //about
 var images = [
-    "heels.jpeg",
-    "orange.jpeg",
-    "glowy.jpeg"
+    "images/heels.jpeg",
+    "images/orange.jpeg",
+    "images/glowy.jpeg"
     
   ]
   var imageHead = document.getElementById("images");
