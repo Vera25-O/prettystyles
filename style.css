@@ -1,9 +1,13 @@
 body{
     background-image: url(ps.jpeg);
     display: flex;
-    
-    
-}
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+
+    }
 button{
     background-color: rgb(9, 3, 3);
     color: rgb(199, 176, 45);
@@ -97,5 +101,7 @@ img{
     width: 800px;
 }
 
-
+.press{
+  width: 100%;
+}
 
