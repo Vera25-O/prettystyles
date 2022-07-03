@@ -28,4 +28,7 @@ var images = [
   }
   
   setInterval(changeColor, 2000)
+
+
+  
   
