@@ -7,6 +7,7 @@ body{
     width: 100%;
 
     }
+    /*buttons*/
 button{
     background-color: rgb(9, 3, 3);
     color: rgb(199, 176, 45);
@@ -30,7 +31,7 @@ button:active{
   width: 100%;
 }
 
-
+/*div*/
  #samples{
     
         width: 100%;
@@ -43,3 +44,9 @@ button:active{
         line-height: 30px;
         color: rgb(199, 176, 45);
  } 
+
+
+ /*icons*/
+.insta{
+    margin-top: 2px;
+}
